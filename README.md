@@ -1,4 +1,4 @@
-# DevPulse Dashboard
+# DevPulse Storefront
 
 This project was created for **CSI-3150: Web and Mobile Systems** as part of Assignment 1B.
 
@@ -34,7 +34,7 @@ The interface is designed to adapt between desktop and mobile layouts. A respons
 ## Project Structure
 
 ```text
-devpulse-dashboard/
+devpulse-storefront/
 ├── index.html
 ├── style.css
 └── README.md
